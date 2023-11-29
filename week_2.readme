@@ -57,53 +57,53 @@ Were the AI is personalized by a robot. To make it simpler.
 Explainability and Transparency in AI
 
 Introduction :
-Prompt for Scene :
-Set the scene in a futuristic lab where a scientist unveils a new AI robot to a curious audience. 
-The robot stands tall, its design sleek and modern. 
-In the background, a holographic display highlights the words 'Explainable AI' and 'Transparency.
-Text : 
-Introducing Explainable AI, a concept ensuring that artificial intelligence systems are understandable and transparent. 
-Explore the importance of transparency in fostering trust and accountability.
-
+    Prompt :
+        Set the scene in a futuristic lab where a scientist unveils a new AI robot to a curious audience. 
+        The robot stands tall, its design sleek and modern. 
+        In the background, a holographic display highlights the words 'Explainable AI' and 'Transparency.
+    Text : 
+        Introducing Explainable AI, a concept ensuring that artificial intelligence systems are understandable and transparent. 
+        Explore the importance of transparency in fostering trust and accountability.
 
 Why Explainability Matters :
-Prompt :
-Transition to a bustling city where the AI robot interacts with a human in a public space. 
-The robot helps the human with a task,helping humans to build something, showcasing transparency in its decision-making process.
-Text :
-Why Explainability matters in AI? 
-Because transparency not only builds trust and user acceptance but also holds the technology accountable for its decision-making processes,
-ensuring responsible and ethical AI applications.
+    Prompt :
+        Transition to a bustling city where the AI robot interacts with a human in a public space. 
+        The robot helps the human with a task,helping humans to build something, showcasing transparency in its decision-making process.
+    Text :
+        Why Explainability matters in AI? 
+        Because transparency not only builds trust and user acceptance but also holds the technology accountable for its decision-making processes,
+        ensuring responsible and ethical AI applications.
 
 Challenges in Achieving Explainability :
-Prompt :
-Shift to the AI lab, revealing the complexity of the AI model. Illustrate the scientist and the AI navigating through a maze of intricate neural pathways and decision nodes. 
-The challenge is apparent as they balance the need for explainability with optimal performance.
-Text :
-Ballance is the main challenge in achieving Explainability, as AI models become increasingly complex.
-Scientists need to navigate the delicate balance between making AI systems understandable while maintaining optimal performance.
+    Prompt :
+        Shift to the AI lab, revealing the complexity of the AI model. Illustrate the scientist and the AI navigating through a maze of intricate neural pathways and decision nodes. 
+        The challenge is apparent as they balance the need for explainability with optimal performance.
+    Text :
+        Ballance is the main challenge in achieving Explainability, as AI models become increasingly complex.
+        Scientists need to navigate the delicate balance between making AI systems understandable while maintaining optimal performance.
 
 How Explainable AI Works :
-Prompt :
-Zoom in on a detailed flowchart hovering in the lab, showcasing the explainable AI process. 
-The AI robot stands beside it, pointing out key steps. On the other side, a contrasting flowchart illustrates the opaque process of a non-explainable model. 
-Visualize the clarity and transparency of the explainable model.
-Text :
-At times, AI may be unexplainable due to the complexity of deep learning models and the intricate patterns they learn.
-As models become more sophisticated, 
-interpreting the exact logic behind certain decisions can be challenging, resulting in less explainable outcomes.
-Explainable AI achieves transparency by providing clear insights into its decision-making process. 
-It employs interpretable algorithms and models, 
-allowing humans to understand and trust the rationale behind AI decisions.
+    Prompt :
+        Zoom in on a detailed flowchart hovering in the lab, showcasing the explainable AI process. 
+        The AI robot stands beside it, pointing out key steps. On the other side, a contrasting flowchart illustrates the opaque process of a non-explainable model. 
+        Visualize the clarity and transparency of the explainable model.
+    Text :
+        At times, AI may be unexplainable due to the complexity of deep learning models and the intricate patterns they learn.
+        As models become more sophisticated, 
+        interpreting the exact logic behind certain decisions can be challenging, resulting in less explainable outcomes.
+        Explainable AI achieves transparency by providing clear insights into its decision-making process. 
+        It employs interpretable algorithms and models, 
+        allowing humans to understand and trust the rationale behind AI decisions.
 
-Chapter 5: Conclusion :
-Prompt :
-Conclude in a serene setting, perhaps a virtual library or a tranquil garden. 
-The AI robot and the human engage in conversation, summarizing the key points of the interaction. 
-Display a holographic screen with the words 'Summary' and 'Call to Action,' signifying a thoughtful reflection on the importance of transparent AI.
-Text : Explainability and transparency in AI are vital for fostering trust and accountability. 
-They ensure that users, developers, and stakeholders can understand, verify, and influence the decisions made by artificial intelligence systems, 
-promoting responsible and ethical AI practices.
+Conclusion :
+    Prompt :
+        Conclude in a serene setting, perhaps a virtual library or a tranquil garden. 
+        The AI robot and the human engage in conversation, summarizing the key points of the interaction. 
+        Display a holographic screen with the words 'Summary' and 'Call to Action,' signifying a thoughtful reflection on the importance of transparent AI.
+    Text : 
+        Explainability and transparency in AI are vital for fostering trust and accountability. 
+        They ensure that users, developers, and stakeholders can understand, verify, and influence the decisions made by artificial intelligence systems, 
+        promoting responsible and ethical AI practices.
 
 Althought I am not fully satisfied with the result I think the story method does a better job explaining why Explainability and Transparency in AI matters.
 I will keep going on this diresction for next week.
