@@ -1,0 +1,60 @@
+The goal of this week is to continue generating the images necessary to the infographics
+and the textes that are necessary to aware the targeted audience.
+
+Bias and Fairness in AI
+1.	Introduction
+•	Definition of Bias in AI
+•	Importance of Fairness in AI Algorithms
+2.	Impact of Bias in AI
+•	Examples of Bias in Real-world Scenarios
+•	Consequences of Biased Decision-Making
+3.	Causes of Bias in AI
+•	Data Collection Issues
+•	Algorithmic Biases
+4.	Mitigating Bias in AI
+•	Fairness Metrics and Evaluation
+•	Strategies for Bias Reduction
+6.	Conclusion
+•	Summary of key points
+•	Call to action for addressing bias in AI development
+
+Introduction:
+    Prompt :
+        The robot stands at the entrance of an "AI Awareness Center" with a sign saying "Bias and Fairness in AI - Introduction."
+    Text :
+        Bias in AI refers to the presence of systematic and unfair preferences or prejudices in the design, implementation, or use of artificial intelligence algorithms. 
+        This bias can lead to discriminatory outcomes that disproportionately affect certain groups, perpetuating societal inequalities.
+        Let,s follow our guide though the his journey to explore Bias and Fairness in AI.
+
+Impact of Bias in AI:
+Prompt :
+    The robot watches examples of bias on a screen: biased hiring and facial recognition. 
+    Its expression changes, realizing the consequences of biased decisions.
+Text :
+    Fairness in AI algorithms is crucial to ensure equitable treatment and opportunities for all individuals, irrespective of their demographic characteristics. 
+    Without fairness, AI systems may reinforce existing biases, exacerbate social disparities, and compromise ethical standards.
+    Biaised algorithm for hiring recomendation can have sever consequence on a society for exemple.
+
+Causes of Bias in AI:
+Prompt :
+    The robot is in a virtual world, standing in front of a corrupted "Data Collection" and "Biased Algorithmic ."
+    We can see the corruption clearly because the data collection is gigantic and messy, it is crawling on the robot.
+Text :
+    Some AI can even be considered disfonctioning because of Bias. It is because of one of these two reasons :
+    Data Collection Issues; Historical biases, underrepresentation, and sampling bias contribute to skewed datasets.
+    Algorithmic Biases; Model design choices, training processes can introduce biases.
+
+Mitigating Bias in AI:
+Prompt :
+    The robot sits at a table with diverse AI experts, discussing fairness metrics and strategies for reducing bias. 
+    Charts on the wall illustrate these approaches.
+Text :
+    But Bias can be mitigated or avoided via using metrics such as :
+    demographic parity, equalized odds, and disparate impact analysis.
+Image 6 - Conclusion:
+Prompt :
+    The robot, now equipped with knowledge.  
+    The final image captures the robot functioning correctly in a fair and unbiased environment.
+Text : 
+    Efforts to address bias in AI development are not only ethical imperatives but also crucial for building trust and ensuring responsible and equitable AI deployment. 
+    Collaboration among developers, policymakers, and the wider community is essential for navigating the complexities of bias in AI responsibly.
